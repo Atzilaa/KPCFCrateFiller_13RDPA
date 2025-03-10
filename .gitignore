@@ -1,0 +1,32 @@
+# Arma 3 Gitignore
+
+# Fichiers temporaires et spécifiques à Windows
+*.tmp
+*~
+*.swp
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Fichiers spécifiques à Arma 3
+*.biprivatekey
+*.bikey
+*.pbo
+*.bin
+*.dll
+*.out
+*.log
+*.rpt
+
+# Dossiers spécifiques
+.vscode/
+.idea/
+.vs/
+
+# Fichiers spécifiques
+mission.sqm.oldBackup
+mission.sqm.oldBackup.oldBackup
+
+# Fichiers locaux qui ne devraient pas être partagés
+userconfig/ 

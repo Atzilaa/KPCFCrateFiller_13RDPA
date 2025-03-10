@@ -1,0 +1,8 @@
+//KPCF A ajouter apres #include "core\fnc\task\taskTypes.hpp"
+ 
+#include "KPCFCratefiller\KPGUI\KPGUI_defines.hpp" 
+#include "KPCFCratefiller\KPCF\ui\KPCF_dialog.hpp"
+
+class CfgFunctions {
+    #include "KPCFCratefiller\KPCF\KPCF_functions.hpp"
+};
