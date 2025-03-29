@@ -2,7 +2,7 @@
 
 Version personnalisée du système de gestion de caisses KP Cratefiller pour le 13ème RDPA. Cette modification améliore considérablement l'expérience utilisateur, la gestion des capacités des caisses et ajoute de nombreuses fonctionnalités pour faciliter la logistique dans vos missions Arma 3.
 
-/!\ Nombreux bugs dans cette version. 
+/!\ Nombreux bugs dans cette version + Stringtable BTC+KPCF.
 
 ## Fonctionnalités implémentées
 
