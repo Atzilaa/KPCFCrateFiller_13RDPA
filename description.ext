@@ -1,4 +1,4 @@
-//KPCF A ajouter apres #include "core\fnc\task\taskTypes.hpp"
+//KPCF
  
 #include "KPCFCratefiller\KPGUI\KPGUI_defines.hpp" 
 #include "KPCFCratefiller\KPCF\ui\KPCF_dialog.hpp"
